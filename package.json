@@ -57,5 +57,13 @@
   "bugs": {
     "url": "https://github.com/cchamberlain/save-as/issues"
   },
-  "homepage": "https://cchamberlain.github.io/save-as"
+  "homepage": "https://cchamberlain.github.io/save-as",
+  "overrides": {
+    "get-func-name": ">=2.0.2",
+    "pathval": ">=1.1.1"
+  },
+  "resolutions": {
+    "get-func-name": ">=2.0.2",
+    "pathval": ">=1.1.1"
+  }
 }
