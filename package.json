@@ -1,6 +1,6 @@
 {
   "name": "save-as",
-  "version": "0.1.8",
+  "version": "0.1.8-lineaje-01",
   "description": "ES6 version of FileSaver.js window.saveAs functionality.",
   "main": "lib/index.js",
   "files": [
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cchamberlain/save-as.git"
+    "url": "https://github.com/lineaje-labs-gos/cchamberlain-save-as"
   },
   "keywords": [
     "saveAs",
@@ -48,6 +48,12 @@
   },
   "author": "Cole Chamberlain <cole.chamberlain@gmail.com> (https://github.com/cchamberlain)",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/cchamberlain/save-as/issues"
   },
